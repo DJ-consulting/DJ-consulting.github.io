@@ -1,12 +1,9 @@
 ---
 layout: default
 ---
-# Welcome to DJ-consulting
+## We are DJ consulting. We believe machine learning is the key for business value oriented data science.
 
-## This is the homepage for DJ consulting. We tune the world with data science. 
-
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+TODO: ...
 
 ## Header 2
 

@@ -1,5 +1,30 @@
-title: DJ-consulting
-description: We tune the world with data science.
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-slate
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            DJ-consulting
+tagline:          'data science'
+description:      'We tune the world with data science'
+url:              https://sample.com
+baseurl:          /
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+
+plugins:
+  - jekyll-paginate
+  - jekyll-gist 

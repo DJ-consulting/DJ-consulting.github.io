@@ -14,8 +14,8 @@ url:              https://sample.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Jinjun Sun'
+  url:            https://twitter.com/jsunster
 
 paginate:         5
 

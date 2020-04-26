@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  DJ consulting is a data scientist team who are keen to apply our knowledge transfer your data into practical bisness values.
+  DJ consulting is a data scientist team who will help you dig practical bisness values out of your data.
 </p>
 
 <!-- In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).

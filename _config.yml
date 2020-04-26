@@ -10,7 +10,7 @@ title:            DJ-consulting
 tagline:          'data science'
 description:      'We tune the world with data science'
 url:              https://sample.com
-baseurl:          /
+baseurl:          '/'
 
 author:
   name:           'Jinjun Sun'

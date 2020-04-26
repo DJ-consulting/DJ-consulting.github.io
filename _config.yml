@@ -11,19 +11,19 @@ title:            DJ-consulting
 tagline:          'data science'
 description:      'We tune the world with data science'
 url:              https://sample.com
-baseurl:          /
+baseurl:          '/'
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Jinjun Sun'
+  url:            https://twitter.com/jsunster
 
 paginate:         5
 
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/poole/hyde
+# github:
+#   repo:           https://github.com/poole/hyde
 
 plugins:
   - jekyll-paginate

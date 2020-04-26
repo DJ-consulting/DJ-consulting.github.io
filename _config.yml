@@ -11,7 +11,7 @@ title:            DJ-consulting
 tagline:          'data science'
 description:      'We tune the world with data science'
 url:              https://sample.com
-baseurl:          /
+baseurl:          '/'
 
 author:
   name:           'Jinjun Sun'
@@ -22,8 +22,8 @@ paginate:         5
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/poole/hyde
+# github:
+#   repo:           https://github.com/poole/hyde
 
 plugins:
   - jekyll-paginate

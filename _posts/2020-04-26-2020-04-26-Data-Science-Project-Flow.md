@@ -8,7 +8,9 @@ tags: [workflow]
 summary: The data science workflow reference.
 ---
 
-We normally have the following steps in a data science projects
+We normally have the following steps in a peer reviewable data science projects
 - Scope of the problems
 - Research and prototyping of achievable solutions
 - engineering of the project toward the products
+
+During each step, we will define the KPI related metrics.

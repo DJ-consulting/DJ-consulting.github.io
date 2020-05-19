@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contacts
+permalink: /contact/
 date: 2020-04-26 11:01
 category: 
 author: 

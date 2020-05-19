@@ -10,8 +10,8 @@ permalink:        pretty
 title:            DJ-consulting
 tagline:          'data science'
 description:      'We tune the world with data science'
-# url:              https://sample.com
-# baseurl:          '/'
+url:             ""
+baseurl:          ""
 
 author:
   name:           'Jinjun Sun'
@@ -24,6 +24,13 @@ version:          2.1.0
 
 # github:
 #   repo:           https://github.com/poole/hyde
+
+
+github_repo: DJ-consulting
+github_username: daveqi777
+
+social_link: twitter
+social_username: jsunster
 
 theme_color: black
 

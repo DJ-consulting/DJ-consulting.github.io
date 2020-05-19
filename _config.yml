@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-remote_theme:     broccolini/swiss
+remote_theme: broccolini/swiss
 
 # Permalinks
 permalink:        pretty

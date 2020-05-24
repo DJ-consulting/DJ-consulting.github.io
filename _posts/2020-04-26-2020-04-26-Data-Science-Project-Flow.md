@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Work flow of data science projects
 date: 2020-04-26 13:57
 category: project workflow

@@ -1,39 +1,25 @@
-# Dependencies
-markdown:         kramdown
-remote_theme:     broccolini/swiss
+# Site settings
+title: DJ-consulting
+email: djconsultingaus@gmail.com
+url: https://dj-consulting.github.io
+description: 'We tune the world with data science'
 
-# Permalinks
-permalink:        pretty
-# relative_permalinks: true
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
 
-# Setup
-title:            DJ-consulting
-tagline:          'data science'
-description:      'We tune the world with data science'
-url:             ""
-baseurl:          ""
+# Footer settings
+footer: Your Website
 
-author:
-  name:           'Jinjun Sun'
-  url:            https://twitter.com/jsunster
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/jsunster
 
-paginate:         5
+  - title: github
+    url: https://github.com/DJ-consulting
 
-# Custom vars
-version:          2.1.0
-
-# github:
-#   repo:           https://github.com/poole/hyde
-
-
-github_repo: DJ-consulting
-github_username: daveqi777
-
-social_link: twitter
-social_username: jsunster
-
-theme_color: black
-
-plugins:
-  - jekyll-paginate
-  - jekyll-gist 
+# Build settings
+markdown: kramdown
+permalink: pretty
